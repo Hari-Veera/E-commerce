@@ -84,8 +84,9 @@ E-COMMERCE/
 
 **Medipudi Hari Veera**  
 📧 Email: hariveeramedipudi@gmail.com  
-🌐 Portfolio: https://portfolio-one-snowy-39.vercel.app/  
-🔗 GitHub: https://github.com/Hari-Veera
+🚀 Live Demo: https://real-time-tracker-807v.onrender.com/  
+🔗 GitHub Repository: https://github.com/Hari-Veera/Real-Time-Tracker
+
 
 ---
 
