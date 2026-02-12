@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone - E-Commerce Website
+# 🛒 Amazon Clone (E-Commerce Website)
 
 A user-friendly **E-Commerce Website** (Amazon Clone) developed to provide a seamless online shopping experience.  
 This project showcases a modern design with responsive layouts, dynamic product listings, and a fully functional cart and checkout process.
@@ -27,17 +27,23 @@ This project showcases a modern design with responsive layouts, dynamic product 
 ## 📂 Project Structure
 
 ```
-Amazon-Clone/
-├── index.html        # Home page
-├── signin.html       # User sign in
-├── signup.html       # User sign up
-├── product.html      # Product details page
-├── cart.html         # Cart and checkout page
-├── /css              # Stylesheets
-│   └── style.css
-├── /js               # JavaScript files
-│   └── script.js
-└── /images           # Product and UI images
+E-COMMERCE/
+├── index.html         
+├── product.html
+├── cart.html
+├── signin.html
+├── signup.html
+├── style.css
+├── product.css
+├── cart.css
+├── signin.css
+├── script.js
+├── assets/
+│   └── (images & icons)
+├── screenshots/
+│   └── (project screenshots)
+└── .hintrc
+
 ```
 
 ---
@@ -61,26 +67,18 @@ Amazon-Clone/
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](assests/screenshots/homepage.png)
+### 🏠 Home Page
+![Home Page](screenshots/Home%20Page.png)
 
-### Product Page
-![Product Page](assests/screenshots/productpage.png)
+### 📦 Product Page
+![Product Page](screenshots/Product%20Page.png)
 
-### Cart Page
-![Cart Page](assests/screenshots/cartpage.png)
+### 🛒 Cart Page
+![Cart Page](screenshots/Cart%20Page.png)
 
-
----
-
-## 🎯 Future Enhancements
-
-- ✅ Integrate with a backend (Node.js/Express or Firebase).  
-- ✅ Add real payment gateway (Stripe/PayPal).  
-- ✅ Implement user accounts and order history.  
-- ✅ Enhance search with filters and categories.  
 
 ---
+
 
 ## 👨‍💻 Author
 
